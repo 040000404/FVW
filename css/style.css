@@ -90,7 +90,7 @@ body{
   font-family: 'Abril Fatface', cursive;
   font-size: 21pt;
   color: #ff82b9;
-  line-height: 200%;
+  line-height: 130%;
   padding-bottom: 24px;
 
 }
@@ -114,11 +114,10 @@ body{
   background-color: #DFD1F8;
 }
 
-.textBox1{
+.textBox1, .textBox2{
   margin-top: 48px;
-  height: 768px;
 }
- 
+
 
 
 .linkwrapper{
